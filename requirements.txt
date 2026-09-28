@@ -1,0 +1,22 @@
+# LangGraph
+langgraph
+langchain
+langchain-core
+langchain-groq
+
+# Hugging Face
+langchain-huggingface
+huggingface-hub
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Data validation
+pydantic
+
+# HTTP requests / APIs
+requests
