@@ -246,7 +246,7 @@ flowchart LR
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/langgraph-agents.git
+git clone https://github.com/SubhasishElixor-HQ/langgraph-agents
 
 cd langgraph-agents
 
